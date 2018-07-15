@@ -20,9 +20,9 @@ Work from the [Introduction to MongoDB](https://www.coursera.org/learn/introduct
  - Updating documents, bulk updates
  - Data Types in MongoDB
  - Filtering on Array fields
- - MFlix (inserting, updating and deleting data)
+ - Inserting, updating and deleting data
  - Sort, Skip and Limit
- - Query movies using operators ($elemMatch)
+ - Query using operators ($elemMatch)
  - Querying on subdocuments
  
  ### Week 3
